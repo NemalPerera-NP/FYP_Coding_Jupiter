@@ -1,0 +1,8 @@
+# Ignore Python environments
+module01/
+
+# Ignore other unnecessary files
+*.pyc
+__pycache__/
+.DS_Store
+*.log

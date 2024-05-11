@@ -1,0 +1,2 @@
+conda activate ./module01
+jupyter notebook
