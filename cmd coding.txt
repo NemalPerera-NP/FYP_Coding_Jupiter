@@ -1,2 +1,14 @@
 conda activate ./module01
 jupyter notebook
+
+pip install jupyter pandas numpy matplotlib nltk spacy 
+
+This command installs the Jupyter Notebook interface and several commonly used libraries for
+data manipulation, analysis, and natural language processing.
+
+To list all installed packages and their versions:
+
+code to cmd - pip freeze > requirements.txt
+
+This creates or updates the requirements.txt file in your current directory, 
+listing all the libraries and their exact versions that are currently installed in the virtual environment.
